@@ -1,0 +1,1 @@
+In this project, I used a mixed of ladder logic and structured text in order to run the simulation. The ladder logic is limited to discrete inputs and outputs as well as for safety features. The structured text block run the bulk of the crane movements and storage memory. 
