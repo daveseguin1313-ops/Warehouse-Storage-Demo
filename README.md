@@ -1,3 +1,6 @@
 In this project, I used a mix of ladder logic and structured text in order to run the scene 7 simulation in Factory.IO, a warehouse storage system. The goal of this system is for an operator to store pallets and retrieve them as desired. They manually select which storage unit they want to store or retrieve a pallet from via a panel. Safety includes an emergency stop to halt the process, and checks to prevent loading a pallet into a full storage space or attempting to retrieve a pallet from an empty storage space.  
 
 The ladder logic is limited to discrete inputs and outputs as well as for safety circuits. The structured text blocks run the bulk of the crane movements and storage memory. 
+
+Video demonstration
+https://youtu.be/zeDHMxL9b0U 
